@@ -1,2 +1,2 @@
 # Python-DevOps
-Python Lab Solutions
+Python Labs Solutions
